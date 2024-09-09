@@ -1,6 +1,6 @@
-### About the Project
+## About
 
-**Project purpose**: "Classifying a child's handwriting to determine the presence of a writing disorder (dysgraphia)". 
+**Project**: "Classifying a child's handwriting to determine the presence of a writing disorder (dysgraphia)". 
 
 **Context**: This time series challenge was part of the Spatiotemporal Data Analysis course at Tilburg University, offered by dr. Sharon Ong. 
 The goal of the competition was to achieve the highest accuracy score. 
