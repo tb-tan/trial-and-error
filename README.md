@@ -2,7 +2,6 @@
 
 Here is my trial-and-error playground. I'm a MSc student in Data Science with a passion for sports and history.
 - This will be a compilation of notebooks I created for data analysis and exploration, mostly for personal interests.
-- Currently learning deep learning and working on Formula 1 pit-stop strategies
       
 ## Projects/Notebooks/Data Work:
 
