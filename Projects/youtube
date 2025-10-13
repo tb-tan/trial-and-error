@@ -1,8 +1,0 @@
-## About
-
-A Python automation tool that uses FFmpeg and the YouTube Data API to render overlay text on videos, manage metadata from a CSV file, and automatically upload or schedule videos (daily or weekly).
-
-- Renders custom on-video text using FFmpeg with configurable styling.
-- Reads per-video titles, hashtags, and overlay text from a CSV file.
-- Supports scheduled publishing via the YouTube Data API (e.g., every Monday at 9:00).
-- Automatically moves processed videos to an archive folder.
