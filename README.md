@@ -11,3 +11,6 @@ Webscraped from TransferMarkt, this dataset includes the categories: 'player, ag
 
 ### 2. "Classifying a child's handwriting to determine the presence of a writing disorder (dysgraphia)."
 A time series competition in which I achieved the highest accuracy score with Arsenal time series classifier. This competition was part of the Spatiotemporal Data Analysis course at Tilburg University, offered by dr. Sharon Ong.
+
+### 3. Automated YouTube Content Scheduler
+A Python script that automates YouTube uploads by rendering overlays with FFmpeg, reading titles and hashtags from CSV, and scheduling uploads via the YouTube Data API.
